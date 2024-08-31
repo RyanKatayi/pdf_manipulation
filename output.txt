@@ -1,0 +1,1709 @@
+If
+ideal
+,
+what method
+__ how to
+calculate
+f- value
+x.PT
+. y
+.PK
+,
+=
+Y' IX. =P
+,
+g.
+x.PT#--y.pKi=Yi/xi=8ipR*x.Q-l:y.Q-vki=0IiYgiv
+8. x.PT?Oii-PKi-- ¥?÷
++
+" " "
+ki
+- Yy✗,
+:
+-
+Yi
+-
+- Kix ,
+2- ix.I -11411-4 ]
+Zz
+= Xzltkzlz ( l
+- L )
+✗it
+Xz
+=
+1.0
+f. 1-
+- f?
+↳
+L
+,
+✗
+,
+,
+× ,
+Yityz
+=
+1.
+Off
+= Fi
+:
+-
+" =L+¥
+?
+✗2
+=
+X,R•= Yip
+Ki =P
+?
+Lt Kzll
+- l )
+✗zpzt-yzpkz.PT/p
+✗
+i -1×2--1.0
+y
+, -192=1.0
+EZ-i-Z.X.L-Y.lv
+( + Kil
+,
+- c)
+=
+1-
+0
+Zz
+= Xzltyzv
+←kiZi_
+=L -0
+Lt kill
+- c)
+✗
+, -1×2=1.0
+Y
+, -192^-1.0
+E¥I¥÷
+=
+o
+- 01=14--0
+i.
+-
+-
+-
+-
+-
+-1
+au
+TE
+1
+editor PF
+I
+F→¥_i_☒tf¥=
+" " "
+1
+T
+o
+1
+,
+PD
+Tip
+pump
+heater
+I
+A- Drone
+1
+I
+↳4.4.x,
+'
+-
+-
+-
+-
+-
+-
+-
+- l
+he
+at
+P : latm
+×0H ¥;
+to
+l
+l
+s
+78.15
+0.8943
+0-894--3
+qq.rs
+1. 0
+I -0
+÷
+i
+-
+the
+08127
+I
+TE
+1
+evildoer ppl
+I
+F→÷;_☒tf[
+" "
+' 4
+1
+TD
+1
+,
+PD
+Tip
+pump
+heater
+1
+,
+D= Drone
+I /
+'
+QF
+# 4.4.x,
+'
+-
+-
+-
+-
+-
+-
+-
+- l
+he
+E- =
+t.tv
+2-
+=
+✗L
++
+YV
+Have
+data
+ept feed
+-
+.
+-
+ion
+z y
+= ✗=Z
+X
+,
+Y
+=
+-
+Ly
+✗
++If
+z
+operating
+line
+finality /
+W y
+:
+Xi Z
+f
+= fraction
+vaporized
+Y
+=
+✗
++ ¥
+f-
+=
+Epp
+9
+: fraction liquid I
+Y -1¥)
++ (E)
+z
+-
+•
+E- but
+.
+Bubble
+pt
+feed
+v
+-
+-
+O
+l
+:
+I
+¥
+-
+-0
+I
+=
+a
+Assignment # I
+08130
+From
+Thermo 2
+,
+solve
+flash
+problem
+use
+ASPEN
+V, L
+• Size vessel
+• Din
+- Vapor traffic
+Gives
+us
+molar #
+v1 ? )
+Max vapor velocity
+flow rate
+can determine
+ulmax
+velocity )
+in
+the
+→
+drone
+.
+a- Karam
+1ft /
+s )
+_②→
+↳empirically determine
+Kdrum
+= exp [
+D- + Dlh Ftvtc / 1nF
+,)
+>
++ ☐11nF,)
+>
++ E( In
+14
+Fw=¥,fT÷
+W
+:
+mass flow rate
+gives =
+5%
+entrainment
+( carries
+over liquid /
+Use
+rebiity
+U( %)
+and
+✓( ft
+> 1sec )
+Area of
+drum 14in )
+pin
+from
+yap
+- vet
+IÉ
+"
+"
+" " " "
+"
+= " "
+""° " "
+D- =¥
+= ft
+rule
+of thumb
+in
+=*mAMM~
+D=
+?⃝ÉÉ
+.
+Ginny .
+-
+-
+-
+'
+[typical
+413=4-5 ]
+'
+:
+'
+foot
+-
+-
+-
+-
+-E-i
+:*- {¥;;÷:÷:*
+minimum
+hf
+=
+I
+'
+1- Yz Din
+Ttd
+3
+- J
+b. of drum
+- up
+check
+YD
+if
+it's
+4-5
+Workout
+Ex
+2-4
+Pg
+47
+!
+Use
+ASPEN
+!
+y
+÷
+. .#
+calc
+4,
+i.
+L
+,
+V1
+Watch
+some tutorials
+→=×=z
+i.
+0-4/46
+09/01
+ASPEN
+HW
+1) Calc
+L , Y
+from
+flash
+LE
+Mole/ hr
+=)
+ft 31s
+✗
+=
+mole / hr
+⇒ft 31s
+2) Cal
+max velocity
+U=Karume-f
+ft / Sec
+3) calc
+area of
+drum
+=
+.
+vuli-YY.ge#--
+area
+1ft ')
+1) in
+⇒ft
+4)
+h
+-
+- but he
++ he
+hv :3
+' th Din
+hf
+=
+I
+'
+1- Yz Din
+h ,
+=
+from liquid
+b
+of drum
+- up
+i. ¥
+I
+4- 5
+09101
+C. 3 ish
+P
+,
+F¥
+"
+" " " " " em.ae.÷ . .
+HEI
+Ts > Tys
+.
+.
+. -1 ,
+El
+.
+1¥ .
+stripping action
+B. I
+bottom
+product
+↳B
+Xi>
+=
+bottom is
+composition
+µ÷÷¥
+.
+I
+1
+-
+to
+> a-
+↳
+09103
+Tray
+→not
+best
+y
+sieve
+- tray
+( cheapest )
+""
+f÷÷÷÷I
+1
+:
+:
+diameter /number
+of
+holes
+:
+g
+based on vapor traffic
+'
+.
+.
+8
+(
+1101am
+.
+flow ,
+velocity )
+:
+Tray
+g)
+support
+beam ?
+valve tray
+not
+the
+most
+efficient
+cap tray
+,?⃝
+distance
+is imp
+.
+for velocity
+F-
+-
+Chimney
+tray
+separator
+1-1×1
+heater
+heat of
+vaporization
+molar flow
+"
+"" " " "
+" " " "" -
+#↳D. ✗
+D= distillate
+repress urize
+✗☐
+= distillate
+component
+\ reflux
+☐
+= bottoms
+Q= 4171T
+,
+- Tz )
+Bx
+= bottoms
+composition
+¥
+ratio
+to
+find
+Lo
+YD
+= reflux
+ratio
+to
+= reflux
+boil up
+Column
+Distillation
+09108
+separator
+condenser
+-1×1
+heater
+go.name
+"
+Qc
+" "
+→
+/
+¥
+" "" "
+⇐
+qua
+, , ,
+boil up
+↳Q_"sB
+, ✗☐
+In
+Designing
+Column
+Specify
+:
+- Pressure
+of the
+column
+* constants
+-
+Feed
+conditions
+ex
+:
+sat 'd
+liq
+,
+sat 'd
+vap
+-
+reflux
+to
+( condition
+: usually
+sat 'd )
+reflux
+amt ,
+so
+%
+-
+XD
+,
+XB
+-
+Feed
+location
+-
+at
+the
+optimum tray
+( continue
+to
+find
+the optimum
+tray
+)
+-
+economic
+analysis
+Then
+,
+calculate :D
+, B. Qc
+, Qb , N
+, Nfeed
+, column
+diameter
+-
+To
+simulate ,
+specify
+:
+-
+N
+-
+Feed
+plate
+-
+Column
+diameter
+-
+duty
+Qc
+,
+Qb
+- specify
+XD
+Or
+XB
+-
+calc
+told
+to
+set
+✗☐
+specify
+to
+calc i recall
+when
+needed
+-
+Check
+LID
+⇒
+v
+check
+column
+diam : sufficient
+for
+y
+3. 4
+External
+Column
+Balance
+✓boundary
+Mass
+Balance
+F =D -113
+( overall
+MB)
+The
+more
+volatile
+component
+mass
+balance
+:
+IF
+= Fz
+= BxB
++ ☐xp
+D=
+( Z-XB_)F
+✗p
+- XB
+B-
+-
+F-
+☐=/ ¥,☐)F
+specified
+D ,
+✗☐
+, sat 'd
+:
+TD
+, Qc
+Energy
+Balance
+:
+1 around
+the entire
+column )
+Fhf
++ Qc
++ QR=Dh☐+Bh☐
+-
+Unknowns
+condenser's
+,
+=
+✗☐
+=
+Xo
+composition
+is unchanged
+condenser
+MB
+:
+11 ,
+= Lot D
+413
+specified
+.
+-
+.
+.
+Lo
+:
+condenser
+EB
+11,1-1
+,
+1- Qc =/D
++ to)h☐=Hh☐
+Qc :X
+, this
+- Hi )
+back
+to
+overall
+EB
+to
+calc
+QR
+Example
+3-
+1
+Ext
+balances
+for
+binary
+distillation
+09110
+⑨
+Lo
+lxslhrl
+:-. :-.:-.
+304%
+=
+Calc
+DIB
+, Qc
+, QR
+F- =D -113
+D= F(7-x
+=
+10,000 [
+0.LI?j.#J=3333k9/hrO.3F--o.80D
+-10.0513
+( ✗☐
+-
+✗D)
+D=
+3333
+13=6667
+13=1000-3333
+=
+666T
+1<9 / hr
+hf
+( 7=0.3
+, 40°C /
+=
+30
+kcal/ kg
+hp
+a)
+0.8
+Sa 't 'd
+li9=
+60
+kcal / kg
+}
+Fig
+7-4
+his
+a)
+0.05
+Sat 'd
+liq
+=
+90
+kcal / kg
+h
+,
+( y ,=
+✗☐
+= 0.8
+,
+Satd
+Vap )
+=
+330
+kcal/ kg
+Qc :(It ¥ )D(h☐
+- h
+, ) =/ I -13113333K¥ / ( 60
+-
+330 )k÷÷
+=
+- 3,559,640
+kcal / hr
+Total
+energy
+balance
+Qr=Dh☐
++
+Bhis
+- the
+- Qc
+QR
+=
+4099
+650
+kcal / hr
+$33331160 )
++
+6667190 )
+- 1000130 )
+- l
+- 3559640 )
+=
+4099
+650
+kcal/hr
+Satan
+sat 'd
+vapor
+09110
+he
+= 80
+kcal /hr
+HF
+=
+375
+" ca
+' / hr
+Qc
+= -3559
+,
+640
+kcal / hr
+Qc
+=
+- 3559640
+kcal 1hr
+QR
+=
+3599650
+kcal / hr
+QR=
+649,650
+kcayhr
+Chapter
+4
+Internal
+stage
+by
+stage
+Balance
+stage I
+i
+-
+D
+overall
+mass
+balance
+-
+-
+V2
+=L
+,
+f- D
+I f-µ#
+I
+,
+more
+volatile
+component
+mass
+balance
+-
+-
+L , X
+,
++ DX ☐
+=
+442
+-
+-
+-
+-
+-
+- !
+Energy
+balance
+1 well
+- insulated , adiabatic
+column
+)
+kHz
+1- Qc
+=
+1- 1h
+,
++
+DAD
+Degrees
+of
+freedom
+f-
+=
+To
+assume
+that each
+stage
+f-
+= ctz
+- P
+is
+at
+eqm
+.
+= 2+2-2
+→
+liq
+, yap
+leaving
+the
+stage
+=
+2
+area team
+If
+P=
+latr.ir
+f-
+=
+I
+sat 'd
+outed
+product
+:
+.
+f-
+=
+0
+calc
+everything
+09/13
+t
+tf
+, tip
+, 1713
+, H
+from
+data
+:
+I
+i
+hlx
+, )
+Hly
+. )
+!EtageI
+-
+-
+-
+-
+"
+Y
+=
+K
+LX , )
+Internal
+Column
+Balance
+D. XD
+" i
+know
+:
+V
+,
+=
+Lot D
+y
+,
+= XD
+①
+<
+1-01,2--3.0
+✗
+,
+from
+data
+r
+u
+stage
+N
+713=0.05
+"
+4
+i.
+.
+-
+D. ✗☐
+I
+4
+i
+①L
+,
+= Vz
++
+D
+overall
+mass
+balance
+1
+①
+?⃝
+lo É
+①
+1- 1×1+0×0=11242
+more
+volatile
+comp
+.
+MB
+f. ?⃝ggg.gg
+,
+.
+.
+.
+.
+.
+.
+.
+. ,
+③
+µ, µ ,
++ g , ,
+,
+,
+,,
+,
++ , ,, ,
+g , , we , , .in , ,, , aye,
+,
+agg ,,a , , ,
+go , um ,, ,
+binary
+(
+=
+2
+P=
+2
+i.
+f-
+=
+2
+( degrees
+of
+freedom )
+↳specify
+column
+pressure
+④
+4.
+= KIX , )
+⑤
+h
+= hlx , )
+6
+ears
+unknown
+1st
+stage
+⑥
+1-1=1-1
+( y
+,)
+solve
+then go
+to
+the
+stage
+below
+stage
+2
+EB
+1/3=1-2
++
+D
+V34 ]
+=
+Lz
+✗
+z
+t
+DX ,]
+Qc
++1131-1 ]
+: Lzhz
++ Dhp
+he
+= hlxz )
+yz
+=
+K
+( Xz )
+1-13
+=
+1-1 ( Ys)
+Vjti
+= Lj
++ D
+Qct
+Vj -11 Hj -11
+=
+Ljhj
++ ☐his
+Xj -114 ,
+- +
+,
+= ljxj
++
+DX ☐
+hj
+=
+hj
+( Xj )
+Hj + i
+= Hj -11
+( Yjti)
+Xj
+=
+✗j
+( y;)
+÷÷÷÷÷:÷÷÷÷÷.÷÷:*
+new
+energy
+balance
+eqns
+09115
+>
+Vj+ ,
+=
+Lj
++ D
+hj
+= hlxj )
+①
+Vj +
+i Yj -11
+=
+Ljxj
++ DX ,
+Hj -11--1-11%+1 )
+Qc
+-1
+Yj -11 Hj -11
+= Ljhj
++ Dhp
+Xj
+=
+✗
+( Yj)
+②
+a) Feed stage
+mat 't
+balance / energy balance
+change
+✓
+l
+q=
+sat 'd
+liq
+if
+q
+=
+sat 'd
+vapor
+sub cooled
+liq
+q >
+I
+T
+I
+F
+↳
+[
+=L + F
+V
+= it F
+superheated
+Vap
+9<1
+→
+f
+f
+=V
+I =L
+7,9
+9
+I
+9=1
+9=0
+I
+I
+a-
+- I
+Stripping section
+( bottom of
+the column )
+IK
+=
+IK
+- i
+-
+B
+hk -
+i
+= h( XK
+- 1)
+ÑKYK
+= [ K
+-
+i ✗K
+- i
+- BxB
+HK
+=
+H ( 4K )
+ÑHk
+= [
+K
+- ihk
+-
+I
+- BHB
++ QR
+XK - I
+=
+✗( yk
+- 1)
+Lewis
+Method
+[
+=
+nearly
+constant
+①column
+is
+adiabatic
+✗
+± nearly
+constant
+①
+Sensible heat
+" small
+"
+relates
+to
+the latent
+heat
+I
+=
+constant
+③
+Heat
+of
+vaporization
+is constant
+I
+=
+constant
+④
+Constant
+1770191
+Overflow
+( CMO )
+-
+'
+-
+Vj -11
+Yj
+-1 ,
+=
+Lj Xj
++
+( Yj -11
+- Lj ) XD
+VYj+ ,
+=
+Lxj
++ DXD
+¥+1
+= ¥÷
+Xj
+1-
+( I
+- ¥7
+, / ✗☐
+Yj -11
+=
+f- Xj
+-1
+(
+I
+- E) ✗☐
+→
+always
+w/
+equilibrium
+→
+top operating
+eqn
+yk
+= IK -1
+✗K
+- I
+-
+(
+-14×13
+ÑK
+W/
+CMO
+YK =/
+§
+✗K
+- i
+- ( ¥
+- 1)
+✗☐
+>
+D= 95-2
+LID =3
+sat'd liq
+✗D= 0.61
+F- 453.91m¥
+①
+<
+( o
+z=o¥
+②
+¥
+→
+13=359.2 kJn
+how many
+stages ?
+✗13=002
+l=¥
+=3 (95-23)=285-7
+Kathryn
+✓= lot D= 285.7 +
+95.2=380-9
+¥
+= 2§§÷
+= 0.75
+9 ; -11
+= f- Xj
++ ( I
+- I / ✗B
+= 2§÷oxj
++ (1-23%-0) XB
+e-o-9-sxj-CI-0.tl#
+stripping
+section
+Satd
+liq
+I :( + f-
+j=V
+= 285+453.9
+-739.6
+yk :( E)
+✗K
+-
+i
+- (É
+- 1) XD
+=
+1.94 ✗Ky
+- 0.942 XB
+①{
+Top
+of column
+y ,
+-_ ✗D= 0.61
+✗
+,
+= from quality :O .Y
+from quality
+②
+yz=
+0-75
+Xi
+to -251×101--0-453
+212=0-11
+③
+43=1.942 Xz 1-(-0-942) X-P
+X }
+=XB
+= 0.02
+= 0.195
+Lewis Method
+09117
+CMO,
+adiabatic
+4=1--1
+,
+✗
++ Et
+y
+=
+E, ✗
++ ( I
+- E) Xp
+y=
+1<1×1
+y
+,✓
+quality
+q=µ_±
+. -
+feed line
+sat 'd
+liq
+H
+- h
+↳feed line
+sat 'd Vap
+slope of feed
+line
+ly
+,
+= q⇒
+X,
+McCabe
+- Thiele
+Method
+( solve this
+w/
+ASPEN )
+-1-0-1-7
+D.
+✗☐
+= 0.8
+" "" " ° "
+water
+¥3
+F-
+- 10001<91'f÷
+80°F
+(sub cooled )
+-14
+""
+"
+° "
+→°
+"°=°
+Find feed
+Plate
+location !
+N stages ?
+Feed
+sub cooled
+he
+=
+25
+Btu / Ib
+Hr
+: 880
+Btu / lb
+, ,
+a
+•
+>
+✗
+'
+-4
+'
+'
+"
+4=125
+Btu 1lb
+y ,
+9=880-2-2
+=
+1.13
+'\ feed line
+"
+|↳µm,n
+880-125
+n
+y
+=
+✗
+=
+2-
+X
+,
+Top operating line
+y= txt
+11
+- F) ✗☐
+I
+= ,¥,☐
+= ,I¥
+,
+=
+518
+Is lope )
+✗
+= O
+y
+= 0.3
+Y intercept
+= ( I
+- E) ✗☐
+= (3/8)/0-81=0.3
+Bottom operating
+line
+is
+:
+✗
+- ⇐
+-
+1)
+✗☐
+calc
+slope
+from
+that 't
+balance
+What
+we
+add
+these to
+tew !
+Cando
+on ASPEN
+D. XD
+N
+nm
+,
+""" mi "
+HD)
+No
+1- d- ( HD ) min
+QR
+2
+(
+L /D) min
+¥"
+'
+" ""in
+Hw
+3
+Example
+5-
+I
+P9
+- 164
+using
+Radfrac/ Peng
+Robinson
+" "
+" "
+" " " "
+- calculate
+D
+and
+B
+- specify
+to
+- Calc
+mat 't
+balance
+Ets
+condenser
+- stage
+1
+,
+calc
+- stage
+2
+,
+calc
+¥
+↳
+B
+,
+X
+, ,Xi 1×31×4
+Cant
+specify
+✗distillate
+anymore
+Typically
+specify
+key component
+in distillate
+- light
+key
+1 most volatile )
+- heavy
+key
+( least
+volatile )
+- light
+monkey
+- if
+a
+monkey
+is
+more
+volatile
+/ lighter )
+than the
+light
+key
+.
+-
+heavy
+non
+key
+-
+if
+it
+is
+less
+volatile ( heavier ) than
+the heavy
+key
+.
+Example
+5-
+I
+99.4%
+Cy
+-1¥
+D
+'
+✗prxzbuxpenxyhex
+Distillate
+F. 2000
+"9M¥
+ly
+( o
+- 9940112000/(0-321)=638 -5
+hr
+Cs
+( 0.003/12000/(0-482)=2.89
+→
+ZpÉop= 0.056
+C }
+(20001/0.056)=112-7
+2- É"ut= 0.321
+( 6
+:
+0
+-:
+D= 753
+d
+÷÷÷÷÷
+2- he
+"×= 0-141
+Bottom
+C. 3
+= 0
+C. 4=642
+↳
+= 964
+$4
+3-85
+C. 6=282
+( J
+=
+961
+B
+Xpr
+Xbu Ipe
+✗hex
+C6=282_
+1150
+99.7%
+CJ
+recovered
